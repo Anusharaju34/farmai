@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FARMAI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>FARMAI</h1>
+  <p>AI Powered Smart Farming Assistant</p>
+</header>
+
+<section class="container">
+
+<div class="card">
+  <h2>Crop Disease Prediction</h2>
+  <p>AI detects crop diseases instantly.</p>
+</div>
+
+<div class="card">
+  <h2>Weather Alerts</h2>
+  <p>Real-time weather updates for farmers.</p>
+</div>
+
+<div class="card">
+  <h2>Market Prediction</h2>
+  <p>Predict crop market prices.</p>
+</div>
+
+<div class="card">
+  <h2>Smart Irrigation</h2>
+  <p>Reduce water wastage using AI.</p>
+</div>
+
+</section>
+
+<script src="app.js"></script>
+
+</body>
+</html>
